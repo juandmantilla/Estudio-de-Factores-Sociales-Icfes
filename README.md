@@ -4,4 +4,4 @@ Proyecto enfocado a la predicción de puntajes Saber 11 , tomando como referenci
 ## Integrantes del grupo de trabajo:
 * Juan David Mantilla 
 * Hector Fabian Gonzalez
-* Luisa Fernanda Pabon
+* Luisa Fernanda Pabon.
