@@ -1,2 +1,0 @@
-1) feature_importants
-2)extrea_tree regressor --> mejor característica -> descubre la mejor caracteristica
