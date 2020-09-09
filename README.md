@@ -1,6 +1,6 @@
 ![alt text](img/banner_.jpg)
 
-# Proyecto-Icfes-2018 
+# Proyecto Icfes 2018 
 Proyecto enfocado al estudio y la obtención de características sociales más relevantes que afectan el rendimiento en las pruebas Saber 11 del año 2018. Este proyecto incluye múltiples procesos para el pretratamiento de los datos, diferentes mediciones estadísticas con respecto a sus factores sociales y su implicación en los posibles resultados y la incidencia de de hábitos estudio. Podrá consultar los resultados en el archivo [presentación](EXPO-IA.4.pdf). 
 
 ## Especificación _notebooks_
