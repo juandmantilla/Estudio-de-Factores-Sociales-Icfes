@@ -14,7 +14,7 @@ Los datos son proporcionados por la plataforma [Datos Colombia](https://www.dato
 https://vimeo.com/328628007
 
 ## Autores
-* **Juan David Mantilla **
+* **Juan David Mantilla**
 
 * **Hector Fabian Gonzalez**
 
